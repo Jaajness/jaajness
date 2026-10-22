@@ -35,8 +35,8 @@ Je crée des **jeux vidéo**, des **animations 3D** et des **sites web**. Passio
 
 ## Dépôts en vedette
 
-- [jeu-video-unity](https://github.com/jaajness/jeu-video-unity) — Jeu vidéo indépendant : systèmes de gameplay en C#, animations 3D Blender et audio (Unity)
-- [jeu-unreal-equipe](https://github.com/jaajness/jeu-unreal-equipe) — Prototype de jeu complexe réalisé en équipe, en Blueprint (Unreal Engine)
+- [jeu-video-unity](https://github.com/JV2H25-1022/Jeu-Video-Unity) — Jeu vidéo indépendant : systèmes de gameplay en C#, animations 3D Blender et audio (Unity)
+- [jeu-unreal-equipe](https://github.com/Jaajness/Jeux-Unreal-En-Equipe) — Prototype de jeu complexe réalisé en équipe, en Blueprint (Unreal Engine)
 - [jaajness.github.io](https://github.com/jaajness/jaajness.github.io) — Mon portfolio (React, TypeScript, Vite)
 
 ## Me joindre
