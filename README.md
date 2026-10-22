@@ -35,10 +35,9 @@ Je crée des **jeux vidéo**, des **animations 3D** et des **sites web**. Passio
 
 ## Dépôts en vedette
 
-<!-- Remplace par tes 2-3 dépôts épinglés (garde une ligne courte par dépôt) -->
+- [jeu-video-unity](https://github.com/jaajness/jeu-video-unity) — Jeu vidéo indépendant : systèmes de gameplay en C#, animations 3D Blender et audio (Unity)
+- [jeu-unreal-equipe](https://github.com/jaajness/jeu-unreal-equipe) — Prototype de jeu complexe réalisé en équipe, en Blueprint (Unreal Engine)
 - [jaajness.github.io](https://github.com/jaajness/jaajness.github.io) — Mon portfolio (React, TypeScript, Vite)
-- [NOM-DU-DEPOT-2](https://github.com/jaajness/NOM-DU-DEPOT-2) — Description en une phrase
-- [NOM-DU-DEPOT-3](https://github.com/jaajness/NOM-DU-DEPOT-3) — Description en une phrase
 
 ## Me joindre
 
